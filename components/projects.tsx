@@ -135,17 +135,7 @@ export default function Projects() {
       link: "#",
       github: "#",
     },
-    {
-      id: "3",
-      title: "Fidel Link - E-learning Platform",
-      description:
-        "Comprehensive e-learning app featuring course management, video streaming, quizzes, and progress tracking for students.",
-      image: "/online-learning-education-mobile-app.jpg",
-      tags: ["Flutter", "Video Streaming", "Database", "Authentication"],
-      category: "Mobile Apps",
-      link: "#",
-      github: "#",
-    },
+   
     {
       id: "4",
       title: "FinFlow - Finance Management App",
