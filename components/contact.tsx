@@ -57,7 +57,7 @@ export default function Contact() {
       value: '+251 962 195 984',
       href: 'tel:+251962195984',
     },
-    { icon: MapPin, label: 'Location', value: 'San Francisco, CA', href: '#' },
+    { icon: MapPin, label: 'Location', value: 'Ethiopia,AdissAbaba, Figa', href: '#' },
   ];
 
   const validate = () => {
