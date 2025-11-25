@@ -153,9 +153,9 @@ export default function Footer() {
           {/* Bottom footer */}
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-foreground/60">
             <div className="flex items-center gap-1">
-              <span>Made with</span>
+              <span>Prepared By</span>
               <Heart size={16} className="text-primary fill-primary" />
-              <span>by Amix © 2025</span>
+              <span>by Amredin Seid © 2024</span>
             </div>
             <div className="flex gap-6">
               <a
