@@ -78,7 +78,7 @@ export default function Footer() {
             {/* Brand section */}
             <div>
               <h3 className="text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent mb-4">
-                Amix
+                Amredin
               </h3>
               <p className="text-foreground/70 mb-6">
                 Building exceptional mobile experiences with Flutter and modern
